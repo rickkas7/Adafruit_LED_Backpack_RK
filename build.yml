@@ -1,0 +1,8 @@
+- build: examples/matrix8x8
+  photon: [0.6.3, 0.7.0, 0.8.0-rc.8]
+  p1: [latest]
+  electron: [0.6.4, 0.7.0]
+- build: examples/sevenseg
+  photon: [latest]
+- build: examples/quadalphanum
+  photon: [latest]
